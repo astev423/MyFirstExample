@@ -23,7 +23,6 @@ int main()
         cout << "Division: " << x / y << endl;
         cout << "Remainder: " << x % y << endl;
     }
-    cout << "Remainder: " << x % y << endl;
     cout << "Square Root: " << sqrt(x) << endl;
     cout << "Square: " << pow(x, y) << endl;
 
